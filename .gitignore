@@ -9,9 +9,15 @@ npm-debug.log
 yarn-error.log
 testem.log
 /typings
+.idea
+.vagrant
+bootsrap.h
+VagrantFile
+bower_components/
+package-lock.json
 
 # compiled output
-/dist
+# /dist
 /tmp
 /out-tsc
 # Only exists if Bazel was run
